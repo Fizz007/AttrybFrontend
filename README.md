@@ -68,3 +68,8 @@ npm install
 shell
 
 npm run start
+
+
+## For direct login you can use the emailID and password
+email-demo@attryb.com
+pass-123456
