@@ -21,7 +21,7 @@ To run the frontend part of the project locally, please follow these steps:
 
 shell
 
-git clone https://github.com/Faizan7012/attryb.git
+git clone https://github.com/Fizz007/AttrybFrontend.git
 
     Navigate to the project directory:
 
