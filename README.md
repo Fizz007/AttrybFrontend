@@ -72,5 +72,5 @@ npm run start
 
 For direct login, you can use the following credentials:
 
-    Email: email-demo@attryb.com
+    Email: demo@attryb.com
     Password: 123456
