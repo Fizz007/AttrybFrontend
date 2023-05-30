@@ -70,8 +70,7 @@ shell
 npm run start
 
 
-## For direct login you can use the emailID and password
+For direct login, you can use the following credentials:
 
-email-demo@attryb.com
-
-pass-123456
+    Email: email-demo@attryb.com
+    Password: 123456
