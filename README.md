@@ -1,70 +1,290 @@
-# Getting Started with Create React App
+User
+create a read me file of Github   with the following details    
+                                                                                                                      #Buy Cars
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You'll be able to add cars, update cars , delete cars , login , signup
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Tech Stack Used
+HTML5 CSS3 JavaScript react ChakraUI Express-JS MongoDB
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Run Locally for Frontend Part
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Clone the project
+  git clone https://github.com/Faizan7012/attryb.git
 
-### `npm test`
+Go to the project directory
+  cd Attryb
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install dependencies
+  npm install
 
-### `npm run build`
+Start the server
+  npm run start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Run Locally for Backend Part
+Clone the project
+https://github.com/Fizz007/AttrybServer.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Go to the project directory
+  cd backend
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Install dependencies
+  npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Start the server
+  npm run start
+ChatGPT
+Buy Cars
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This is a GitHub repository for the "Buy Cars" project. The project allows users to add cars, update cars, delete cars, login, and signup. The tech stack used for this project includes HTML5, CSS3, JavaScript, React, ChakraUI, Express.js, and MongoDB.
+Run Locally for Frontend Part
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    Clone the project:
 
-## Learn More
+shell
+git clone https://github.com/Faizan7012/attryb.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    Go to the project directory:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+shell
+cd Attryb
 
-### Code Splitting
+    Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+shell
+npm install
 
-### Analyzing the Bundle Size
+    Start the server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+shell
+npm run start
 
-### Making a Progressive Web App
+Run Locally for Backend Part
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+    Clone the project:
 
-### Advanced Configuration
+shell
+git clone https://github.com/Fizz007/AttrybServer.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+    Go to the project directory:
 
-### Deployment
+shell
+cd backend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+    Install dependencies:
 
-### `npm run build` fails to minify
+shell
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    Start the server:
+
+shell
+npm run start
+
+Feel free to explore the project and make use of the features mentioned above.
+User
+create a read me file of Github README.md   with the following details    
+      #Buy Cars
+
+You'll be able to add cars, update cars , delete cars , login , signup
+
+
+
+Tech Stack Used
+HTML5 CSS3 JavaScript react ChakraUI Express-JS MongoDB
+
+Run Locally for Frontend Part
+
+Clone the project
+  git clone https://github.com/Faizan7012/attryb.git
+
+Go to the project directory
+  cd Attryb
+
+Install dependencies
+  npm install
+
+Start the server
+  npm run start
+
+
+Run Locally for Backend Part
+Clone the project
+https://github.com/Fizz007/AttrybServer.git
+
+Go to the project directory
+  cd backend
+
+
+Install dependencies
+  npm install
+
+Start the server
+  npm run start
+ChatGPT
+Buy Cars
+
+This is a GitHub repository for the "Buy Cars" project. The project allows users to add cars, update cars, delete cars, login, and signup.
+Tech Stack Used
+
+    HTML5
+    CSS3
+    JavaScript
+    React
+    ChakraUI
+    Express.js
+    MongoDB
+
+Run Locally for Frontend Part
+
+    Clone the project:
+
+shell
+git clone https://github.com/Faizan7012/attryb.git
+
+    Go to the project directory:
+
+shell
+cd Attryb
+
+    Install dependencies:
+
+shell
+npm install
+
+    Start the server:
+
+shell
+npm run start
+
+Run Locally for Backend Part
+
+    Clone the project:
+
+shell
+git clone https://github.com/Fizz007/AttrybServer.git
+
+    Go to the project directory:
+
+shell
+cd backend
+
+    Install dependencies:
+
+shell
+npm install
+
+    Start the server:
+
+shell
+npm run start
+
+Feel free to explore the project and make use of the features mentioned above.
+User
+Create a Github Read me file with the following details
+   #Buy Cars
+
+You'll be able to add cars, update cars , delete cars , login , signup
+
+
+
+Tech Stack Used
+HTML5 CSS3 JavaScript react ChakraUI Express-JS MongoDB
+
+Run Locally for Frontend Part
+
+Clone the project
+  git clone https://github.com/Faizan7012/attryb.git
+
+Go to the project directory
+  cd Attryb
+
+Install dependencies
+  npm install
+
+Start the server
+  npm run start
+
+
+Run Locally for Backend Part
+Clone the project
+https://github.com/Fizz007/AttrybServer.git
+
+Go to the project directory
+  cd backend
+
+
+Install dependencies
+  npm install
+
+Start the server
+  npm run start
+ChatGPT
+Buy Cars
+
+Welcome to the "Buy Cars" project repository on GitHub. This project allows users to add, update, and delete cars, as well as perform login and signup operations.
+Tech Stack Used
+
+The following technologies were used to develop this project:
+
+    HTML5
+    CSS3
+    JavaScript
+    React
+    ChakraUI
+    Express.js
+    MongoDB
+
+Run Locally - Frontend Part
+
+To run the frontend part of the project locally, please follow these steps:
+
+    Clone the project repository:
+
+shell
+git clone https://github.com/Faizan7012/attryb.git
+
+    Navigate to the project directory:
+
+shell
+cd Attryb
+
+    Install the project dependencies:
+
+shell
+npm install
+
+    Start the server:
+
+shell
+npm run start
+
+Run Locally - Backend Part
+
+To run the backend part of the project locally, please follow these steps:
+
+    Clone the project repository:
+
+shell
+git clone https://github.com/Fizz007/AttrybServer.git
+
+    Navigate to the project directory:
+
+shell
+cd backend
+
+    Install the project dependencies:
+
+shell
+npm install
+
+    Start the server:
+
+shell
+npm run start
+
+
